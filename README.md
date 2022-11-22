@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I'm from Argentina<br>🔭 I’m currently working on: https://github.com/Agusdben/quizz-forms, an app to create and answers quizzes of other users<br>🌱 I’m currently learning mid-advance reactjs<br>
+📌 I'm from Argentina<br>🌱 I’m currently learning mid-advance reactjs<br>
 
 
 ## 🌐 Socials:
