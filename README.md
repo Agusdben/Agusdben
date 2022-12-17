@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I'm from Argentina<br>🌱 I’m currently learning mid-advance reactjs<br>
+📌 I'm from Argentina<br>🌱 I’m currently learning mid-advance reactjs with TypeScript<br>
 
 
 ## 🌐 Socials:
